@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "go_shopping_quiz",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
